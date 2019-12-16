@@ -1,5 +1,4 @@
-def cr107(num1, num2):
-    print(num1 + num2)
+def cr113(num1, num2, num3):
+    print(num1 + num2 + num3)
 
-
-cr107(7, 10)
+cr113(7, 10,15)
