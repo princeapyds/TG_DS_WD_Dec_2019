@@ -1,4 +1,4 @@
-def add(x,y):
-    z=x+y
-    print(z)
-add(9,9)
+def add(x,y,z):
+    w=x+y+z
+    print(w)
+add(9,9,8)
